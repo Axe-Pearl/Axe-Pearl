@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Nema</h1>
-<h3 align="center">A passionate React(Frontend) developer from India</h3>
+<h3 align="center">A passionate React Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axe-pearl&label=Profile%20views&color=0e75b6&style=flat" alt="axe-pearl" /> </p>
 
