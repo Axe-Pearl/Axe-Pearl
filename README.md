@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 📝 I regularly write articles on [https://medium.com/@anuragnema31, https://hashnode.com/@AnuragDev31](https://medium.com/@anuragnema31, https://hashnode.com/@AnuragDev31)
+- 📝 I regularly write articles on [Medium, hashnode](https://medium.com/@anuragnema31, https://hashnode.com/@AnuragDev31)
 
 - 💬 Ask me about **JavaScript,React**
 
