@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **anuragnema31@gmail.com**
 
+-  🎥 SUBSCRIBE TO YOUTUBE CHANNEL ( visit - https://www.youtube.com/channel/UC8uVulieEYQWms4Jf8uxQ2g/featured)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -19,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anurag-nema-8b5569194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-nema-8b5569194" height="30" width="40" /></a>
 <a href="https://medium.com/@anuragnema31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anuragnema31" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8uVulieEYQWms4Jf8uxQ2g/featured" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="@anuragnema31" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
